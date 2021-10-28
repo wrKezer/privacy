@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,400,600&subset=latin-ext');
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #404040;
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+  color: #404040;
+}
+b {
+  font-weight: 400;
+}
